@@ -1,0 +1,35 @@
+baseURL = "https://www.mattwisner.com/"
+languageCode = "en-us"
+title = "Matt Wisner"
+theme = "nuo"
+
+
+# Disqus Username
+disqusShortname = "disqus_shortname"
+
+# Google Analytics UA number
+googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© 2017"
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+# Add your own params here
+[params]
+  author = "Matt Wisner"
+  avatar = "/img/avatar.jpg"
+  seotitle = "Matt Wisner"
+  subtitle = "Ramblings"
+  paginate = 10
+
+  # Choose your social networks
+  email = "matt@fourthlab.com"
+  github = "mwisner"
+  twitter = "wisnerm"
+  linkedin = "matt-wisner-627a599"
