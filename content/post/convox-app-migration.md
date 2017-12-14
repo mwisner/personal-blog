@@ -1,7 +1,7 @@
 ---
 title: "Migrating Convox Gen 1 applications to Gen 2"
 date: 2017-12-14T14:49:35-05:00
-draft: true
+draft: false
 ---
 
 For those who are unfamiliar with Convox (https://convox.com/), it's basically basically Heroku for your AWS account. It takes all those
